@@ -1,2 +1,2 @@
 # aha-moments
-my aha-moments of mine
+my aha-moments
